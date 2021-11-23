@@ -13,7 +13,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada orci l
 - [Projeto 2](https://leconds.github.io/datascience/)
 
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
