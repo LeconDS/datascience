@@ -1,36 +1,18 @@
-## Welcome to GitHub Pages
+## Lecon Data Science
 
-You can use the [editor on GitHub](https://github.com/LeconDS/datascience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada orci libero, ac cursus urna venenatis scelerisque. Mauris placerat orci id rhoncus ullamcorper. Phasellus libero massa, dictum in bibendum in, semper vel ex. Maecenas facilisis tellus eget efficitur vulputate. Nunc rhoncus, metus ac interdum pretium, ligula dui lobortis enim, vitae luctus diam odio ac tellus. Mauris maximus luctus eros in gravida. Integer suscipit tristique urna, et ultricies neque pretium at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eu metus in tortor feugiat tincidunt mollis eleifend orci. Aliquam consectetur, nibh in convallis aliquet, tellus lacus vulputate dolor, non scelerisque augue elit vel felis. Suspendisse in sem felis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Repositório Aprendizado Estatístico
 
-### Markdown
+- [Aprendizado Estatístico](https://ffajardo64.github.io/statistical_learning/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Projetos
 
-# Header 1
-## Header 2
-### Header 3
+- [Projeto 1](https://leconds.github.io/datascience/)
+- [Projeto 2](https://leconds.github.io/datascience/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeconDS/datascience/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
